@@ -1,1 +1,1 @@
-print ("gasdasd")
+print ("gasdasd rama")
